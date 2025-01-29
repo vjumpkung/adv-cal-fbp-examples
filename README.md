@@ -12,36 +12,63 @@
 
 ### Run Program
 
-![](videos/run_program.mp4)
+<video width="100%" controls>
+  <source src="videos/run_program.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Save Program
 
-![](videos/save_workflow.mp4)
+<video width="100%" controls>
+  <source src="videos/save_workflow.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Load Program
 
-![](videos/load_workflow.mp4)
+<video width="100%" controls>
+  <source src="videos/load_workflow.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Invalid Program
 
-![](videos/workflow_invalid.mp4)
+<video width="100%" controls>
+  <source src="videos/workflow_invalid.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Error Program
 
-![](videos/workflow_error.mp4)
+<video width="100%" controls>
+  <source src="videos/workflow_error.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Read File
 
-![](videos/read_test.mp4)
+<video width="100%" controls>
+  <source src="videos/read_test.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Write File
 
-![](videos/write_test.mp4)
+<video width="100%" controls>
+  <source src="videos/write_test.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Complex Program Test
 
-![](videos/complex_program.mp4)
+<video width="100%" controls>
+  <source src="videos/complex_program.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Graph Visualization
 
-![](videos/graph_plot_output.mp4)
+<video width="100%" controls>
+  <source src="videos/graph_plot_output.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
