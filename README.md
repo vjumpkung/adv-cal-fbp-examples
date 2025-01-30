@@ -10,35 +10,35 @@
 
 ## Examples
 
-### Run Program
+### Run Workflow
 
 <video width="100%" controls>
   <source src="videos/run_program.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-### Save Program
+### Save Workflow
 
 <video width="100%" controls>
   <source src="videos/save_workflow.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-### Load Program
+### Load/Open Workflow
 
 <video width="100%" controls>
   <source src="videos/load_workflow.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-### Invalid Program
+### Invalid Workflow
 
 <video width="100%" controls>
   <source src="videos/workflow_invalid.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-### Error Program
+### Error Workflow
 
 <video width="100%" controls>
   <source src="videos/workflow_error.mp4" type="video/mp4">
@@ -59,7 +59,7 @@
   Your browser does not support the video tag.
 </video>
 
-### Complex Program Test
+### Complex Workflow Test
 
 <video width="100%" controls>
   <source src="videos/complex_program.mp4" type="video/mp4">
